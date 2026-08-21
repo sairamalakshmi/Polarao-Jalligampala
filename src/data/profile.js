@@ -70,7 +70,7 @@ export const technologies = [
  
 export const social = {
   linkedin: 'https://www.linkedin.com/in/polarao-jalligampala-008aa8202/', // TODO
-  email: 'polarao9640@gmail.com', // TODO
+  email: 'mailto:polarao9640@gmail.com', // TODO
   website: atikes.website,
 };
  
